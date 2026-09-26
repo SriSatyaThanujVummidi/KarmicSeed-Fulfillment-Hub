@@ -1,0 +1,21 @@
+sku,product_name,category,variant,unit_price,reorder_level
+SKU001,Wireless Mouse,Electronics,Black,799,35
+SKU002,Wireless Keyboard,Electronics,Black,1499,25
+SKU003,USB-C Cable,Electronics,1m,399,60
+SKU004,Laptop Stand,Accessories,Silver,1299,20
+SKU005,Webcam,Electronics,1080p,2499,15
+SKU006,Bluetooth Speaker,Electronics,Blue,1799,12
+SKU007,Phone Holder,Accessories,Black,599,25
+SKU008,Power Bank,Electronics,10000mAh,1599,20
+SKU009,Desk Lamp,Home,White,999,12
+SKU010,Notebook,Stationery,A5,199,40
+SKU011,Pen Set,Stationery,Blue,149,50
+SKU012,Backpack,Bags,Black,1999,18
+SKU013,Laptop Sleeve,Bags,Grey,899,20
+SKU014,HDMI Cable,Electronics,2m,499,30
+SKU015,Desk Organizer,Home,Black,699,15
+SKU016,Mechanical Keyboard,Electronics,RGB,3299,12
+SKU017,Earbuds,Electronics,White,2199,18
+SKU018,Monitor Stand,Accessories,Black,1799,10
+SKU019,Water Bottle,Home,750ml,499,25
+SKU020,Travel Pouch,Bags,Blue,799,15

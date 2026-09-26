@@ -1,0 +1,5 @@
+courier_id,courier_name,service_level,base_cost,pickup_cutoff
+C001,FastShip,Standard,60,17:00
+C002,QuickGo,Express,95,15:00
+C003,ValueCourier,Economy,45,18:00
+C004,SpeedX,Express,110,16:00

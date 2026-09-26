@@ -1,0 +1,41 @@
+issue_id,reference_id,issue_type,item,description,resolution_status,severity
+ISS001,ORD1182,Inventory,SKU018,Main warehouse stock is insufficient; transfer or verify stock before picking.,Open,High
+ISS002,ORD1051,Inventory,SKU018,Main warehouse stock is insufficient; transfer or verify stock before picking.,Open,High
+ISS003,ORD1067,Inventory,SKU012,Main warehouse stock is insufficient; transfer or verify stock before picking.,Open,High
+ISS004,ORD1015,Picking,SKU010,Verify product SKU and variant before packing.,Open,Medium
+ISS005,ORD1036,Picking,SKU007,Verify product SKU and variant before packing.,Open,Medium
+ISS006,ORD1062,Picking,SKU015,Verify product SKU and variant before packing.,Open,Medium
+ISS007,ORD1077,Picking,SKU002,Verify product SKU and variant before packing.,Open,Medium
+ISS008,ORD1080,Picking,SKU019,Verify product SKU and variant before packing.,Open,Medium
+ISS009,ORD1085,Picking,SKU007,Verify product SKU and variant before packing.,Open,Medium
+ISS010,ORD1115,Picking,SKU002,Verify product SKU and variant before packing.,Open,Medium
+ISS011,ORD1117,Picking,SKU008,Verify product SKU and variant before packing.,Open,Medium
+ISS012,ORD1123,Picking,SKU005,Verify product SKU and variant before packing.,Open,Medium
+ISS013,ORD1143,Picking,SKU003,Verify product SKU and variant before packing.,Open,Medium
+ISS014,ORD1166,Pickup,ValueCourier,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS015,ORD1156,Pickup,SpeedX,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS016,ORD1069,Pickup,ValueCourier,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS017,ORD1101,Pickup,FastShip,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS018,ORD1186,Pickup,QuickGo,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS019,ORD1066,Pickup,FastShip,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS020,ORD1065,Pickup,QuickGo,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS021,ORD1228,Pickup,FastShip,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS022,ORD1044,Pickup,FastShip,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS023,ORD1204,Pickup,ValueCourier,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,Medium
+ISS024,ORD1052,Pickup,ValueCourier,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,High
+ISS025,ORD1132,Pickup,SpeedX,Packed/staged order is approaching courier pickup cutoff; confirm box location and pickup.,Open,Medium
+ISS026,ORD1070,SLA,ORD1070,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS027,ORD1042,SLA,ORD1042,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS028,ORD1236,SLA,ORD1236,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS029,ORD1009,SLA,ORD1009,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS030,ORD1085,SLA,ORD1085,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS031,ORD1210,SLA,ORD1210,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS032,ORD1166,SLA,ORD1166,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS033,ORD1156,SLA,ORD1156,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS034,ORD1069,SLA,ORD1069,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS035,ORD1101,SLA,ORD1101,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS036,ORD1186,SLA,ORD1186,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS037,ORD1241,SLA,ORD1241,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS038,ORD1108,SLA,ORD1108,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS039,ORD1221,SLA,ORD1221,Priority order needs same-day handling; protect the pickup deadline.,Open,High
+ISS040,ORD1043,SLA,ORD1043,Priority order needs same-day handling; protect the pickup deadline.,Open,High
